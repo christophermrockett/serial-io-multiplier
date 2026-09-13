@@ -31,8 +31,6 @@ I love working with hardware, software, and circuit design and am always trying 
 
 ## 🚀 Usage
 
-*Show off what your software looks like in action! Try to limit it to one-liners if possible and don't delve into API specifics.*
-
 > *Top-Level Block Diagram*
 <img width="1042" height="452" alt="image" src="https://github.com/user-attachments/assets/e8441e9b-99dc-4dc4-b42c-33c1abe3e13b" />
 
